@@ -1,0 +1,67 @@
+l Seconds
+p D1_E1.wav D1 E1
+p F1_G1.wav F1 G1
+p A1_B1.wav A1 B1
+p G1_B1.wav G1 B1
+p C2_CSharp2.wav C2 CSharp2
+p E1_FSharp1.wav E1 FSharp1
+p G1_GSharp1.wav G1 GSharp1
+p E1_G1.wav E1 G1
+p C1_DSharp1.wav C1 DSharp1
+p E1_F1.wav E1 F1
+p FSharp1_ASharp1.wav FSharp1 ASharp1
+l Thirds
+p G1_B1.wav G1 B1
+p B1_D2.wav B1 D2
+p GSharp1_ASharp1.wav GSharp1 ASharp1
+p E1_GSharp1.wav E1 GSharp1
+p F1_ASharp1.wav F1 ASharp1
+p D1_F1.wav D1 F1
+p ASharp1_CSharp2.wav ASharp1 CSharp2
+p C1_E1.wav C1 E1
+p DSharp1_ASharp1.wav DSharp1 ASharp1
+p FSharp1_GSharp1.wav FSharp1 GSharp1
+l Fourths
+p F1_ASharp1.wav F1 ASharp1
+p C1_G1.wav C1 G1
+p D1_GSharp1.wav D1 GSharp1
+p G1_B1.wav G1 B1
+p CSharp1_GSharp1.wav CSharp1 GSharp1
+p D1_G1.wav D1 G1
+p E1_A1.wav E1 A1
+p C1_FSharp1.wav C1 FSharp1
+p ASharp1_CSharp2.wav ASharp1 CSharp2
+p GSharp1_ASharp1.wav GSharp1 ASharp1
+l Fifths
+p C1_G1.wav C1 G1
+p G1_C2.wav G1 C2
+p E1_ASharp1.wav E1 ASharp1
+p D1_A1.wav D1 A1
+p C1_E1.wav C1 E1
+p FSharp1_D2.wav FSharp1 D2
+p GSharp1_C2.wav GSharp1 C2
+p FSharp1_CSharp2.wav FSharp1 CSharp2
+p DSharp1_ASharp1.wav DSharp1 ASharp1
+p F1_B1.wav F1 B1
+l Sixths
+p E1_CSharp2.wav E1 CSharp2
+p D1_ASharp1.wav D1 ASharp1
+p C1_G1.wav C1 G1
+p E1_D2.wav E1 D2
+p F1_CSharp2.wav F1 CSharp2
+p CSharp1_ASharp1.wav CSharp1 ASharp1
+p FSharp1_D2.wav FSharp1 D2
+p C1_ASharp1.wav C1 ASharp1
+p G1_D2.wav G1 D2
+p DSharp1_C2.wav DSharp1 C2
+l Sevenths
+p C1_B1.wav C1 B1
+p D1_D2.wav D1 D2
+p E1_D2.wav E1 D2
+p C1_ASharp1.wav C1 ASharp1
+p D1_CSharp2.wav D1 CSharp2
+p E1_CSharp2.wav E1 CSharp2
+p C1_C2.wav C1 C2
+p FSharp1_D2.wav FSharp1 D2
+p C1_G1.wav C1 G1
+p CSharp1_C2.wav CSharp1 C2
