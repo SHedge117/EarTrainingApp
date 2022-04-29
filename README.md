@@ -1,6 +1,7 @@
 # EarTrainingApp
 Shawn Hedgepeth's Senior Project at Dixie State University Spring 2022
 
+![keyboard_screen](assets/keyboardscreenshot.png?raw=true)
 
 ## Project Information
 This app allows Musicians and anyone else interested to practice Ear Training. Ear Training is the process of being able to recognize pitches, rhythms and other musical patterns by just listening. It is an important skill for musicians which is why they need an efficient and easy way to practice.
